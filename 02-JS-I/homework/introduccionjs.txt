@@ -1,0 +1,5 @@
+strings: son lineas de texto o caracteres encadenados que van dentro de comillas simples o dobles.
+booleanos: son como decir falso o verdadero, si o no a respuestas a preguntas
+variables: son aquellos datos almacenados en ciertas palabras que guardan informacion con caracteristas para despues
+funciones: se componen de variables y son las que le dan vida a la interactividad web, ejecutan, hacen, deshacen. Y siempre necesitan de parentesis para funcionar.
+declaraciones if: comparan entre opciones y devuelven la respuesta correcta con un booleano, true o false  
