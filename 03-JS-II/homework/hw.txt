@@ -1,0 +1,2 @@
+// for es una estructura de control de flujo utilizada para ejecutar repeticiones de condiciones que tiene un inicio, una zona de repeticion y una zona de aumento de valor de esa variable para que no se atasque la función en un loop infinito
+// and, or, not son operadores lógicos y de comparación que funcionan con logica booleana. se resuleven con dos operandos y el operador. la tabla de la verdad contiene los requisitos para la resolucion de estas operaciones.
