@@ -1,0 +1,5 @@
+un objeto es una colección de propiedades.
+una propiedad es una palabra clave con un valor agregado o también una palabra clave con una función.
+un método es una propiedad + una función.
+el bucle for...in se utiliza para iterar sobre las propiedades de un objeto.
+dot notation es para invocar unicamente propiedades dentro de un objeto y bracket notation puede llamar tanto propiedades como variables, funciones, etc.
