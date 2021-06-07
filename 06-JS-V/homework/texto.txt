@@ -1,0 +1,2 @@
+prototype es un objeto dentro de una clase que contiene métodos y propiedades heredadas de js y tambíen las creadas por nosotros. Se utilizan cuando no hay métodos o propiedades definidas en el objeto literal y para devolver algo el intérprete utiliza las que están dentro del proto.
+los constructors o funcion constructora es la plantilla de la clase de los objetos a crear. Contiene las propiedades de los objetos de la clase. Como es una clase, va con MAYÚSCULA la primer letra. Contiene el métodos this para poder operar en todos los objetos sin repetirse código.
