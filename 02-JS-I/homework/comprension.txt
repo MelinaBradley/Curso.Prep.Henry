@@ -1,0 +1,8 @@
+    * Variables: son palabras que guardan información indicada por el programador para utilizar en operaciones.
+	* Strings: son un tipo de dato compuesto por una cadena de caracteres.
+	* Funciones (argumentos, `return`): son operaciones compuestas por argumentos y que devuelven un
+    resultado (return).
+	* Declaraciones `if`: es una estructura de control de flujo que permite ejecutar o no una operacion segun
+    el condicional que le sea proporcionado.
+	* Valores booleanos (`true`, `false`): palabras claves reservadas de js que apelan a la lógica de tipo
+    respuesta verdadero o falso. Si es verdadero ejecutará el intérprete la operación y si es falso no ejecuta nada.

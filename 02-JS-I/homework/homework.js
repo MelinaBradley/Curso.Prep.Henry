@@ -94,7 +94,8 @@ function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
   // Tu código:
-    if (num>50) {
+  
+   if (num>50) {
       return true;
     }
     return false;
@@ -140,7 +141,7 @@ function elevarAlCuadrado(num) {
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
- return num * num * num;
+ return Math.pow(num,3); // lo mismo que hacer return num * num * num;
 
 }
 
@@ -168,7 +169,7 @@ return Math.ceil(num);
 function numeroRandom() {
   //Generar un número al azar entre 0 y 1 y devolverlo
   //Pista: investigá qué hace el método Math.random()
- return Math.random(0.5);
+ return Math.random();
 
 }
 
@@ -245,12 +246,16 @@ function esVocal(letra){
   //Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle 
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
   //Escribe tu código aquí
-  if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u") {
+  /*if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u") {
     return "Es vocal"; 
-    } 
-  if (letra.length > 1) {
-    return "Dato incorrecto";
-  }
+    } */
+    if (letra.length > 1) {
+      return "Dato incorrecto";
+    }
+    if (letra === "a", "e", "i", "o", "u") {
+      return "Es vocal"
+}
+
   }
 
 
